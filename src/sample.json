@@ -1,0 +1,16 @@
+[
+    {
+        "id" : "1",
+        "Titulo": "The Revenge of the Sith",
+        "Año" : "2005",
+        "Director" : "George Lucas",
+        "Rating" : "7.6"
+    },
+    {
+        "id" : "2",
+        "Titulo": "Panthom Menace",
+        "Año" : "1999",
+        "Director" : "George Lucas",
+        "Rating" : "7.1"
+    }
+]
